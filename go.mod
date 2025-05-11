@@ -1,3 +1,3 @@
 module github.com/terraspark-inc/go-structenv
 
-go 1.23.4
+go 1.22
